@@ -1,0 +1,19 @@
+
+
+Use a 2D array of characters to store the picture.
+Use * for drawing and _ for empty space.
+Implement functions to draw the following shapes:
+Circle
+Rectangle
+Line
+Triangle
+The editor should support:
+Adding objects to the picture
+Deleting objects from the picture
+Modifying existing objects in the picture
+Write a function to display the picture on the screen.
+Store information about each shape (type, coordinates, size, etc.) so that objects can be modified or deleted later.
+Redraw the entire picture whenever an object is added, deleted, or modified.
+Optionally, use the ncurses library to create menus, handle user input, and display drawings interactively.
+
+The program should be written in C and demonstrate all operations through a menu-driven interface.
